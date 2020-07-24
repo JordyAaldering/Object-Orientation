@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# Project files
+build.xml
+manifest.mf
+*.iml
+
 # Log file
 *.log
 
